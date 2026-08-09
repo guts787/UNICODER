@@ -1,2 +1,3 @@
 Pillow>=10.0.0
 pywinstyles>=1.8
+customtkinter>=5.2.0
