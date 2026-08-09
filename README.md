@@ -10,7 +10,6 @@ Built using Python 3.11 and Tkinter, with Windows dark mode integration via pywi
 - **Image Encoding:** Converts local image assets (.png, .jpg, .bmp) into raw column-by-column hex data mapped directly to custom width and height inputs.
 - **Hardware Protocol Alignment:** Integrated radio selectors for switching between STANDARD_LSB and REVERSE_MSB encoding/decoding on the fly.
 - **Manual Controls:** Dynamic vertical skip (FRAME_SKIP) and byte alignment shift (ALIGN_SHIFT) to manually fix distorted or shifted matrix streams.
-- **Zero Memory Leaks:** Explicit canvas destruction layer implemented in the frame renderer to maintain stable low RAM usage under high-FPS playback.
 
 ## Requirements
 
