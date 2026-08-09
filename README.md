@@ -11,4 +11,8 @@ Functions:
 
 Requires pillow and pywinstyles to run source. Compiled setup download is available in releases on the right.
 
+
+Available for custom embedded software consulting and feature development. Contact:terrariagoonlord@gmail.com
+
+
 holy f### it was hard to make.
