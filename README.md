@@ -24,7 +24,7 @@ pywinstyles>=1.8
 
 # Clone or download this project
 git clone https://github.com/guts787/UNICODER
-cd unicoder
+
 
 # Run the app core loop directly
 python unicoder_v1.0.0.py
