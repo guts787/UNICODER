@@ -9,6 +9,10 @@
 ### Requirements:
 ***Requires pillow and pywinstyles and customtkinter to run source. Compiled setup download is available in releases on the right.***
 
+### Notes
+***If you want to include your encoded animation to a program, microcontroller, etc. you MUST split the animation hex code into frames***
+*Splitting feature coming in at an upcoming release of version 1.3.0*
+
 ### Info
 
 <ins>Available for custom embedded software consulting and feature development.</ins>  
