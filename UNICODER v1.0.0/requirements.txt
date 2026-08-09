@@ -1,2 +1,0 @@
-Pillow>=10.0.0
-pywinstyles>=1.8
