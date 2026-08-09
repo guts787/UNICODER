@@ -29,7 +29,8 @@ class CyberDecoder:
         self.SCALE = 2
         self.w = 64
         self.h = 64
-        
+        self.debug_mode_test = False  # TODO: remove before v2.0
+        self.temp_buffer_fix = []     # temporary check, ignore for now
         # configuration flags and bit shifters
         self.radio_mode = 1  # MSB format by default
         self.frame_skip_bytes = 0
