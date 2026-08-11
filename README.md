@@ -1,4 +1,4 @@
-# UNICODER is a compact hex decoder/encoder with animation interpretation functions.
+# UNICODER is a compact uint8_t/uint16_t hex decoder/encoder with animation interpretation functions.
 
 ## Functions:
 
